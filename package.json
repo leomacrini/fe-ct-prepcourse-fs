@@ -1,17 +1,25 @@
 {
-   "name": "prep",
-   "version": "1.0.0",
-   "main": "index.js",
-   "scripts": {
-      "test": "jest",
-      "jest": "jest --testNamePattern="
-   },
-   "keywords": [],
-   "author": "",
-   "license": "ISC",
-   "dependencies": {
-      "jest": "^29.7.0"
-   },
-   "devDependencies": {},
-   "description": ""
+  "name": "prep",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "jest": "jest --testNamePattern="
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {},
+  "description": "![HenryLogo](./assets/logoBannerHenry.png)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leomacrini/fe-ct-prepcourse-fs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leomacrini/fe-ct-prepcourse-fs/issues"
+  },
+  "homepage": "https://github.com/leomacrini/fe-ct-prepcourse-fs#readme"
 }
